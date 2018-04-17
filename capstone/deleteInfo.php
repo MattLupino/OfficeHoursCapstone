@@ -83,7 +83,7 @@
 						<div class="col-md-6 ">
 							<div class="form-group">
 								<label for="form_email">Email * </label>
-								<input id="email" type="email" name="email"  class="form-control" placeholder="Enter your CNU email (no numbers allowed)" required="required" data-error="Email is required.">
+								<input id="email" type="email" name="email"  class="form-control" placeholder="Enter the email to be deleted" required="required" data-error="Email is required.">
 								<div class="help-block with errors"></div>
 							</div>
 						</div>

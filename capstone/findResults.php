@@ -58,7 +58,7 @@
   <!-- /.container-fluid --> 
 </nav>
 <!-- Header -->
-<<header id="header">
+<header id="header">
   <div class="intro">
     <div class="container">
       <div class="row">
