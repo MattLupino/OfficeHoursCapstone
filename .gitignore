@@ -8,3 +8,4 @@
 /captures
 .externalNativeBuild
 config.php
+capstone/config.php
